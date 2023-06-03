@@ -35,7 +35,7 @@ const Team = () => {
 
 const teams = [
   {
-    profil: "/src/assets/images/p.jpeg",
+    profil: "/public/images/p.jpeg",
     name: "Wahyu Ananta",
     postition: "Lead",
     socialMedia: {
@@ -45,7 +45,7 @@ const teams = [
     },
   },
   {
-    profil: "/src/assets/images/p1.jpeg",
+    profil: "/public/images/p1.jpeg",
     name: "Dedi Saputra",
     postition: "Co Lead",
     socialMedia: {
@@ -55,7 +55,7 @@ const teams = [
     },
   },
   {
-    profil: "/src/assets/images/p2.jpeg",
+    profil: "/public/images/p2.jpeg",
     name: "alvain Ananda",
     postition: "Creative",
     socialMedia: {
@@ -65,7 +65,7 @@ const teams = [
     },
   },
   {
-    profil: "/src/assets/images/p3.jpeg",
+    profil: "/public/images/p3.jpeg",
     name: "Adi Saputra",
     postition: "Event",
     socialMedia: {

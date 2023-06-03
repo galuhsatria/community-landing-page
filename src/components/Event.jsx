@@ -38,7 +38,7 @@ const Event = () => {
 
 const events = [
   {
-    thumbniel: "/src/assets/images/dummy-thumbniel.jpg",
+    thumbniel: "/public/images/dummy-thumbniel.jpg",
     date: "Mar 27, 2023",
     eventType: "WORKSHOP / STUDY GROUP",
     title: "Study Jam - Web Basic",
@@ -47,7 +47,7 @@ const events = [
     link: "https:///asdasd.com",
   },
   {
-    thumbniel: "/src/assets/images/dummy-thumbniel.jpg",
+    thumbniel: "/public/images/dummy-thumbniel.jpg",
     date: "April 15, 2023",
     eventType: "Speaker Session / Tech Talk",
     title: "Data Scientist Career Path",
